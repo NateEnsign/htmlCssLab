@@ -1,0 +1,23 @@
+*{
+    color: red
+}
+
+
+h1 {
+    text-align: center;
+}
+
+img {
+    height: 600px;
+    margin: auto;
+    display: block;
+    border: 20px groove rgb(255, 0, 0);
+}
+
+div2 [type="text"] {
+    width: 500px;
+    height: 500px;
+    text-size-adjust: ;
+
+
+}
